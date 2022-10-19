@@ -1,0 +1,17 @@
+.search-bar-holder{
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content:space-around;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.search-style-siri{
+    color: white !important;
+    border: none !important;
+    border-bottom: 2px solid rgb(200, 200, 200) !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    border-bottom-left-radius: 0rem !important;
+    border-bottom-right-radius: 0rem !important;
+    margin-left: 25%;
+}

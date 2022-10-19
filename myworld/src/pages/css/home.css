@@ -1,0 +1,47 @@
+.first-div-siri{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+}
+
+.second-div-siri{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.content-siri{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.feature-style-siri{
+    background-color: rgba(50,50,50,0) !important;
+    border-color: rgba(50,50,50,0) !important;
+    transition: all linear 0.3s;
+}
+
+.feature-style-siri:hover{
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 2px;
+    scale: 1.07;
+}
+
+.accordion-button {
+    background-color: gray !important;
+}
+
+.heading{
+    font-weight:bold;
+}
+
+.intro-siri{
+    font-size: bold;
+}

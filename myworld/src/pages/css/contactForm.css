@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+.global-form-siri{
+  
+  font-family: 'Orbitron', sans-serif;
+  font-weight:bold;
+  
+  color: white !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: none;
+}
+
+.send-msg-siri{
+  margin-top: 1.5rem !important;
+
+}
+.map-holder-siri{
+  padding-top: 3rem !important;
+  padding-bottom: 2rem !important;
+}
+
+.contact-form-siri{
+  font-size: 1.2rem;
+}
+
+.input-style-siri{
+  color: white !important;
+  box-sizing: border-box !important;
+  border: none !important;
+  border-bottom: 2px solid rgb(200, 200, 200) !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border-bottom-left-radius: 0rem !important;
+  border-bottom-right-radius: 0rem !important;
+}
+
+.input-style-siri::placeholder{
+  color:rgb(200, 200, 200) !important;
+}
+
+.label-siri{
+  margin-top: 1rem;
+}
+
+.container-siri{
+  margin-left: 1rem !important;
+}
